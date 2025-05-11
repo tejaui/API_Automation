@@ -1,0 +1,11 @@
+{
+  "stage": {
+    "base_url": "https://gorest-uat.co.in"
+  },
+  "prod": {
+    "base_url": "https://gorest.co.in"
+  },
+  "environment": {
+    "env": "prod"
+  }
+}
